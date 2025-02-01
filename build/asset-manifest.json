@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/club-foot/static/css/main.e6c13ad2.css",
+    "main.js": "/club-foot/static/js/main.84e10fe8.js",
+    "static/js/488.861b3857.chunk.js": "/club-foot/static/js/488.861b3857.chunk.js",
+    "index.html": "/club-foot/index.html",
+    "main.e6c13ad2.css.map": "/club-foot/static/css/main.e6c13ad2.css.map",
+    "main.84e10fe8.js.map": "/club-foot/static/js/main.84e10fe8.js.map",
+    "488.861b3857.chunk.js.map": "/club-foot/static/js/488.861b3857.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.84e10fe8.js"
+  ]
+}
